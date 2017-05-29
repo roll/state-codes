@@ -136,7 +136,7 @@
             "rdfType-prop": "http://schema.org/startDate",
             "title-pt":"Ano de criação",
             "title":"Creation year",
-            "type": "integer"
+            "type": "year"
           },
           {
             "name": "extinction",
@@ -144,7 +144,7 @@
             "rdfType-prop": "http://schema.org/endDate",
             "title-pt":"Ano de extinção",
             "title":"Extinction year",
-            "type": "integer"
+            "type": "year"
           },
           {
             "name": "category",
